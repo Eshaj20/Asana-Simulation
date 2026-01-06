@@ -1,0 +1,11 @@
+Generate a short, natural team comment on a task.
+
+Tone:
+- Informal
+- Collaborative
+- Neutral or constructive
+
+Examples:
+- "This looks good to me "
+- "Blocked until we hear back from infra."
+- "Can we push this to the next sprint?"

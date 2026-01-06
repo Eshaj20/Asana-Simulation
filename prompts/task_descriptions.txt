@@ -1,0 +1,16 @@
+Generate a realistic Asana task description.
+
+Structure variability:
+- 20% empty
+- 50% short (1–2 sentences)
+- 30% detailed with bullet points
+
+Guidelines:
+- Mention expected outcome
+- Optionally include acceptance criteria
+- Avoid overly formal language
+
+Example:
+"Ensure the API handles pagination correctly.
+- Add unit tests
+- Update documentation"

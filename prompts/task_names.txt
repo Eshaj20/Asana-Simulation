@@ -1,0 +1,22 @@
+You are generating realistic Asana task titles.
+
+Rules:
+- Use concise, action-oriented language
+- Avoid generic filler like "Task 1"
+- Follow project context when provided
+
+Patterns:
+Engineering:
+- "[Component] - [Action] - [Detail]"
+- "Fix [bug] in [system]"
+- "Refactor [module] for [goal]"
+
+Marketing:
+- "[Campaign] - [Deliverable]"
+- "Draft copy for [channel]"
+- "Launch [initiative]"
+
+Operations:
+- "Prepare [document]"
+- "Coordinate with [team]"
+- "Review [process]"
