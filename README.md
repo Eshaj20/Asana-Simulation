@@ -29,7 +29,7 @@ ASANA_SIMULATION/
 │   ├── scrapers/             # Data scrapers
 │   ├── utils/                # Helper functions (config, logger, db)
 │   └── main.py               # Entry point
-├── .env                      # Environment variables
+├── .env.example              # Environment variables
 ├── README.md                 # Documentation
 ├── requirements.txt          # Python dependencies
 └── schema.sql                # Database schema
