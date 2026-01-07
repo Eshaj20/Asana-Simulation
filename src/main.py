@@ -23,7 +23,6 @@ SCHEMA_PATH = "schema.sql"
 
 
 def initialize_database(conn):
-    """Initialize database tables using the schema file."""
     logger.info("Initializing database schema...")
     if not os.path.exists(SCHEMA_PATH):
         raise FileNotFoundError(f"Schema file not found at {SCHEMA_PATH}")
