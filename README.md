@@ -63,7 +63,7 @@ pip install -r requirements.txt
 4. **Configure environment variables**
 
 ```bash
-.env
+.env.example
 ```
 
 Edit `.env` if using optional LLM/API keys.
