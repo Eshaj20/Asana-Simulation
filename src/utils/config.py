@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-# Load environment variables from the .env file
+# Load environment variables from the .env.example file
 load_dotenv()
 
 # Path for the SQLite database file
